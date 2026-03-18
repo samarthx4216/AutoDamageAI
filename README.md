@@ -180,4 +180,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## 🙋 Author
 
 **Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/samarth_x4216) · [LinkedIn](www.linkedin.com/in/samarth-marathe-338163321)
